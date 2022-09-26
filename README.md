@@ -3,9 +3,9 @@
 
 
 
-- 🌱 Eu estudo na Generation Brasil
-- 👯 Eu quero colaborar para um mundo mais conectado
-- 😄 Pronomes: ele/dele
+- 🌱 Desenvolvedor Júnior.
+- 👯 Colaborando para um mundo melhor.
+- 😄 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/heiitalo">
