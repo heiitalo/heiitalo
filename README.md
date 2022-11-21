@@ -16,6 +16,7 @@
     <img align="center" alt="italo-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
    <img align="center" alt="italo-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
     <img align="center" alt="italo-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg">
+  <img align="center" alt="italo-php" height="50" width="60" src="https://i.imgur.com/E8ea6W7.png">
   
   
   
