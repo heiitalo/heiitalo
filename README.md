@@ -11,7 +11,7 @@ Node.js e react.
 
 
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="italo-js" height="30" width="40" src="https://i.imgur.com/XAB2aiO.png">
+  <img align="center" alt="italo-js" height="40" width="50" src="https://i.imgur.com/XAB2aiO.png">
   <img align="center" alt="italo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="italo-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
