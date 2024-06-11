@@ -3,11 +3,10 @@
 
 
 
-- 🌱 Desenvolvedor Júnior.
+- 🌱 Desenvolvedor nodeJs.
 - 👯 Colaborando para um mundo melhor.
 - 😄 Pronomes: ele/dele.
-- 👨‍💻 Desenvolvedor Júnior na empresa Ebravo, atualmente prestando serviço para a prefeitura de Arujá. Atuando com PHP e migrando nossas aplicações para
-Node.js e react.
+- 👨‍💻 Desenvolvedor web na empresa Ebravo, atualmente prestando serviço para a prefeitura de Arujá. Atuando com Nodejs, typescript, MySQL e react.
 
 
  <div align="center" style="display: inline_block"><br>
